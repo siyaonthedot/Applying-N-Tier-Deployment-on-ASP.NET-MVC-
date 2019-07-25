@@ -1,0 +1,13 @@
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.BusinessLogic\bin\Debug\NtierMvc.BusinessLogic.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.BusinessLogic\bin\Debug\NtierMvc.BusinessLogic.pdb
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.BusinessLogic\bin\Debug\NtierMvc.Common.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.BusinessLogic\bin\Debug\NtierMvc.DataAccess.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.BusinessLogic\bin\Debug\NtierMvc.Model.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.BusinessLogic\bin\Debug\NtierMvc.Common.pdb
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.BusinessLogic\bin\Debug\NtierMvc.DataAccess.pdb
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.BusinessLogic\bin\Debug\NtierMvc.Model.pdb
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.BusinessLogic\obj\Debug\NtierMvc.BusinessLogic.csprojAssemblyReference.cache
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.BusinessLogic\obj\Debug\NtierMvc.BusinessLogic.csproj.CoreCompileInputs.cache
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.BusinessLogic\obj\Debug\NtierMvc.BusinessLogic.csproj.CopyComplete
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.BusinessLogic\obj\Debug\NtierMvc.BusinessLogic.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.BusinessLogic\obj\Debug\NtierMvc.BusinessLogic.pdb

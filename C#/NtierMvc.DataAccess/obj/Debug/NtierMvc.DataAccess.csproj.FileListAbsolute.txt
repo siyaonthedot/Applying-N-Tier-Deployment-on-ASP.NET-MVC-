@@ -1,0 +1,11 @@
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.DataAccess\bin\Debug\NtierMvc.DataAccess.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.DataAccess\bin\Debug\NtierMvc.DataAccess.pdb
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.DataAccess\bin\Debug\NtierMvc.Common.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.DataAccess\bin\Debug\NtierMvc.Model.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.DataAccess\bin\Debug\NtierMvc.Common.pdb
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.DataAccess\bin\Debug\NtierMvc.Model.pdb
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.DataAccess\obj\Debug\NtierMvc.DataAccess.csprojAssemblyReference.cache
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.DataAccess\obj\Debug\NtierMvc.DataAccess.csproj.CoreCompileInputs.cache
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.DataAccess\obj\Debug\NtierMvc.DataAccess.csproj.CopyComplete
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.DataAccess\obj\Debug\NtierMvc.DataAccess.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc.DataAccess\obj\Debug\NtierMvc.DataAccess.pdb

@@ -1,0 +1,67 @@
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\NtierMvc.dll.config
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\NtierMvc.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\NtierMvc.pdb
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\Antlr3.Runtime.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\Newtonsoft.Json.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\System.Web.Helpers.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\System.Web.Mvc.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\System.Web.Optimization.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\System.Web.Razor.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\System.Web.WebPages.Deployment.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\System.Web.WebPages.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\System.Web.WebPages.Razor.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\WebGrease.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\System.Web.Helpers.xml
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\System.Web.Mvc.xml
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\System.Web.Optimization.xml
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\System.Web.Razor.xml
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\System.Web.WebPages.xml
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\System.Web.WebPages.Deployment.xml
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\System.Web.WebPages.Razor.xml
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\Antlr3.Runtime.pdb
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\Newtonsoft.Json.xml
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\obj\Debug\NtierMvc.csprojResolveAssemblyReference.cache
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\obj\Debug\NtierMvc.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\obj\Debug\NtierMvc.pdb
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\NtierMvc.BusinessLogic.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\NtierMvc.Common.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\NtierMvc.Model.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\NtierMvc.DataAccess.dll
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\NtierMvc.BusinessLogic.pdb
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\NtierMvc.Common.pdb
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\NtierMvc.Model.pdb
+D:\VS-Solutions\VS2013\Projects\NtierMvc\NtierMvc\bin\NtierMvc.DataAccess.pdb
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\NtierMvc.dll.config
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\NtierMvc.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\NtierMvc.pdb
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\Antlr3.Runtime.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\dotless.Core.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\Microsoft.Web.Infrastructure.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\Newtonsoft.Json.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\NtierMvc.BusinessLogic.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\NtierMvc.Common.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\NtierMvc.Model.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\System.Web.Mvc.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\System.Web.Optimization.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\System.Web.Optimization.Less.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\System.Web.Razor.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\System.Web.WebPages.Deployment.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\System.Web.WebPages.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\System.Web.WebPages.Razor.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\NtierMvc.DataAccess.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\NtierMvc.BusinessLogic.pdb
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\NtierMvc.Common.pdb
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\NtierMvc.Model.pdb
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\System.Web.Mvc.xml
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\System.Web.Optimization.xml
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\System.Web.Optimization.Less.pdb
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\System.Web.Optimization.Less.xml
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\Antlr3.Runtime.pdb
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\Newtonsoft.Json.xml
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\bin\NtierMvc.DataAccess.pdb
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\obj\Debug\NtierMvc.csprojAssemblyReference.cache
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\obj\Debug\NtierMvc.csproj.CoreCompileInputs.cache
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\obj\Debug\NtierMvc.csproj.CopyComplete
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\obj\Debug\NtierMvc.dll
+S:\Source\Applying N-Tier Deployment on ASP.NET MVC - A Complete Solution\C#\NtierMvc\obj\Debug\NtierMvc.pdb
